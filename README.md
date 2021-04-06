@@ -1,6 +1,6 @@
 얼굴인식 프로젝트 
 =
-#### 먼저 c9에 opencv를 설치해야 한다. 
+#### 먼저 c9(개발환경)에 opencv를 설치해야 한다. 
 ```
 $ sudo apt-get update
  
